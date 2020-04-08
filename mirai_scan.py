@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#pip3 install python-nmap, paramiko
 import nmap
 import paramiko
 import sys
